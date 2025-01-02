@@ -1,7 +1,5 @@
 ## Database Schema
 
-![Diagram of DB](./diagram.png)
-
 ### User Management
 - `users`: Stores user account information
 - `roles`: Defines user roles (e.g., customer, admin)
