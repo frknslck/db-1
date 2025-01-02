@@ -1,6 +1,6 @@
 ## Database Schema
 
-![DB Diagram](./diagram.png)
+![DB Diagram](https://github.com/user-attachments/assets/31336092-66a0-4906-8a47-74d26a436bee)
 
 ### User Management
 - `users`: Stores user account information
